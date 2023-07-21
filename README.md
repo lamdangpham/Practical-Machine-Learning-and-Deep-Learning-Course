@@ -1,7 +1,7 @@
 # Practical-Machine-Learning-and-Deep-Learning-Course
 
-**Please check the course sylabus bellow:
-**
+**Please check the course sylabus bellow:**
+
 + English_brochure.pdf
 
 + Vietnamese_brochure.pdf
